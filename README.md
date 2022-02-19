@@ -1,16 +1,15 @@
-# clima
+# Weather App
+Developed a weather app using flutter. Fetches weather data through Open Weather Map API based on current location and displays the weather condition. Also added the feature to get the weather conditions of any city.
+- Frontend: Flutter 
+- API: Open Weather Map API
 
-A new Flutter project.
+## Screenshots:
+#### 1. Home Page
+<img src="/images/Home.png" height="500">
+Displays the weather condition of current location
 
-## Getting Started
+#### 2. Custom City Page 
+<img src="/images/City.png" height="500">
+<img src="/images/CityInput.png" height="500">
+<img src="/images/CityWeather.png" height="500">
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
